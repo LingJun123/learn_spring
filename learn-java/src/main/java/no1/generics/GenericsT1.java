@@ -5,5 +5,7 @@ package no1.generics;
  * @Date 2024/3/7 16:02
  */
 public class GenericsT1 {
-
+    public static void main(String[] args) {
+        System.out.println("Hello Generics!");
+    }
 }
