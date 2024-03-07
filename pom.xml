@@ -5,6 +5,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>learn-program</module>
+		<module>learn-java</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
